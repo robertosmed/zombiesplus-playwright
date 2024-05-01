@@ -1,0 +1,66 @@
+{
+  "create": {
+    "title": "Game of Thrones",
+    "overview": "Baseada na série de livros 'As Crônicas de Gelo e Fogo' de George R. R. Martin, Game of Thrones é uma história épica de traição e nobreza, ambientada em um mundo de fantasia onde as famílias lutam pelo controle do Trono de Ferro.",
+    "company": "Walt Disney Studios",
+    "release_year": 2011,
+    "seasons": "8",
+    "featured": false,
+    "cover": "/covers/tvshows/404.png"
+  },
+  "duplicate": {
+    "title": "Breaking Bad",
+    "overview": "Um professor de química do ensino médio se volta para a fabricação de metanfetamina após ser diagnosticado com câncer terminal para garantir o futuro financeiro de sua família, levando-o a um mundo de crime e violência.",
+    "company": "Amazon Studios",
+    "release_year": 2008,
+    "seasons": "5",
+    "featured": false,
+    "cover": "/covers/tvshows/ftwd.png"
+  },
+  "to_remove": {
+    "title": "Stranger Things",
+    "overview": "Quando um menino desaparece em Hawkins, Indiana, um grupo de amigos se une para desvendar os segredos sombrios do governo e enfrentar forças sobrenaturais que ameaçam sua cidade.",
+    "company": "Netflix",
+    "release_year": 2016,
+    "seasons": "4",
+    "featured": false,
+    "cover": "/covers/tvshows/twd.png"
+  },
+  "search": {
+    "input": "The",
+    "outputs": [
+      "The Office (US)",
+      "The Sopranos",
+      "The_mandalorian"
+    ],
+    "data": [
+      {
+        "title": "The Office (US)",
+        "overview": "Uma comédia de estilo documentário que segue o cotidiano dos funcionários de um escritório na filial da Dunder Mifflin em Scranton, Pensilvânia.",
+        "company": "Netflix",
+        "release_year": 2005,
+        "seasons": "9",
+        "featured": false,
+        "cover": "/covers/tvshows/404.png"
+      },
+      {
+        "title": "The Sopranos",
+        "overview": "Um olhar íntimo sobre a vida de Tony Soprano, um chefe da máfia ítalo-americana de Nova Jersey, enquanto ele tenta equilibrar os desafios de liderar uma organização criminosa com os problemas familiares.",
+        "company": "Amazon Studios",
+        "release_year": 1999,
+        "seasons": "6",
+        "featured": false,
+        "cover": "/covers/tvshows/404.png"
+      },
+      {
+        "title": "The Mandalorian",
+        "overview": "Em um universo de Star Wars pós-Imperio, o caçador de recompensas mandaloriano, conhecido apenas como Mando, embarca em uma jornada através da galáxia enquanto protege 'A Criança', mais conhecida como Baby Yoda.",
+        "company": "Disney+",
+        "release_year": 2019,
+        "seasons": "2",
+        "featured": false,
+        "cover": "/covers/tvshows/404.png"
+      }
+    ]
+  }
+}

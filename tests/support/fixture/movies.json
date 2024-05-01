@@ -1,35 +1,36 @@
 {
-    "A Noite dos Mortos-Vivos": {
+    "to_remove": {
       "title": "A Noite dos Mortos-Vivos",
       "overview": "Um grupo de pessoas se refugia em uma casa enquanto o mundo ao seu redor é invadido por mortos-vivos canibais.",
-      "company": "Continental Distributing",
+      "company": "Universal Pictures",
       "release_year": 1968,
       "featured": false,
-      "cover": "caminho/para/a/imagem1.png"
+      "cover": "/covers/movies/mortos-vivos.jpg"
     },
-    "Madrugada dos Mortos": {
-      "title": "Madrugada dos Mortos",
-      "overview": "Um grupo de sobreviventes se refugia em um shopping center durante um apocalipse zumbi.",
-      "company": "Universal Pictures",
-      "release_year": 2004,
-      "featured": false,
-      "cover": "caminho/para/a/imagem2.png"
-    },
-    "Eu Sou a Lenda": {
-      "title": "Eu Sou a Lenda",
-      "overview": "Um cientista sobrevive a um vírus que transformou a maior parte da população em criaturas semelhantes a zumbis.",
-      "company": "Warner Bros. Pictures",
-      "release_year": 2007,
-      "featured": false,
-      "cover": "caminho/para/a/imagem3.png"
-    },
-    "Zumbilândia": {
-      "title": "Zumbilândia",
-      "overview": "Um grupo de sobreviventes enfrenta uma infestação de zumbis enquanto viaja pelos Estados Unidos.",
-      "company": "Sony Pictures Releasing",
-      "release_year": 2009,
-      "featured": false,
-      "cover": "caminho/para/a/imagem4.png"
+    "search": {
+      "input": "zumbi",
+      "outputs": [
+        "Invasão Zumbi",
+        "Zumbilândia"
+      ],
+      "data": [
+        {
+          "title": "Invasão Zumbi",
+          "overview": "Um grupo de passageiros de um trem lutam para sobreviver a um surto zumbi na Coreia do Sul.",
+          "company": "Fox Entertainment",
+          "release_year": 2016,
+          "featured": false,
+          "cover": "caminho/para/a/imagem6.png"
+        },
+        {
+          "title": "Zumbilândia",
+          "overview": "Um grupo de sobreviventes enfrenta uma infestação de zumbis enquanto viaja pelos Estados Unidos.",
+          "company": "Amazon Studios",
+          "release_year": 2009,
+          "featured": false,
+          "cover": "/covers/movies/zumbilandia.jpg"
+        }
+      ]
     },
     "create": {
       "title": "Guerra Mundial Z",
@@ -37,47 +38,16 @@
       "company": "Paramount Pictures",
       "release_year": 2013,
       "featured": false,
-      "cover": "caminho/para/a/imagem5.png"
+      "cover": "/covers/movies/wwz.png"
     },
-    "Invasão Zumbi": {
-      "title": "Invasão Zumbi",
-      "overview": "Um grupo de passageiros de um trem lutam para sobreviver a um surto zumbi na Coreia do Sul.",
-      "company": "Next Entertainment World",
-      "release_year": 2016,
-      "featured": false,
-      "cover": "caminho/para/a/imagem6.png"
-    },
-    "A Garota com Todos os Presentes": {
+    "duplicate": {
       "title": "A Garota com Todos os Presentes",
       "overview": "Uma menina com habilidades especiais pode ser a chave para a cura em um mundo infestado por zumbis.",
-      "company": "Warner Bros. Pictures",
+      "company": "Paramount Pictures",
       "release_year": 2016,
       "featured": false,
       "cover": "caminho/para/a/imagem7.png"
-    },
-    "Cargo": {
-      "title": "Cargo",
-      "overview": "Um pai tenta salvar sua filha após um surto zumbi na Austrália.",
-      "company": "Netflix",
-      "release_year": 2017,
-      "featured": false,
-      "cover": "caminho/para/a/imagem8.png"
-    },
-    "A Volta dos Mortos-Vivos": {
-      "title": "A Volta dos Mortos-Vivos",
-      "overview": "Uma substância química revive os mortos e desencadeia uma invasão zumbi em uma pequena cidade.",
-      "company": "Orion Pictures",
-      "release_year": 1985,
-      "featured": false,
-      "cover": "caminho/para/a/imagem9.png"
-    },
-    "Resident Evil: O Hóspede Maldito": {
-      "title": "Resident Evil: O Hóspede Maldito",
-      "overview": "Um grupo de soldados de elite luta contra uma inteligência artificial maligna e hordas de zumbis em um complexo de pesquisa subterrâneo.",
-      "company": "Screen Gems",
-      "release_year": 2002,
-      "featured": false,
-      "cover": "caminho/para/a/imagem10.png"
     }
+    
   }
   
